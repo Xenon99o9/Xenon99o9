@@ -1,6 +1,6 @@
 # Liam PAULUS
 
-Étudiant en 2ème année de Bachelor Informatique à l'ESGI, je suis à la recherche d'une alternance en tant que Technicien Réseau (rythme de 3 jours en entreprise et 2 jours à l'école).
+Étudiant en 2ème année de Bachelor Informatique à l'ESGI, je suis à la recherche d'une alternance en tant que Technicien Réseau ou Développeur Web (rythme de 3 jours en entreprise et 2 jours à l'école).
 
 ## À propos de mon profil
 
